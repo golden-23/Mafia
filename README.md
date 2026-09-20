@@ -220,4 +220,4 @@ Mafia is the complete free version, providing access to all features and updates
 Download Mafia today and step into the thrilling world of organized crime. Unleash your inner Don and complete your mission!
 
 ---
-**Last updated:** 2026-09-20 15:47:39 UTC
+**Last updated:** 2026-09-20 18:36:01 UTC
